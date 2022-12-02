@@ -63,7 +63,7 @@
 
 
 
-							<td><a href="#"><img alt=""
+							<td><a href="hello?choice=modifier&idC=${client.getId()}&nom=${client.getNom()}&prenom=${client.getNom()}&email=${client.getEmail()}&ville=${client.getVille()}&adresse=${client.getAdresse()}"><img alt=""
 									src="images/icons/pen.svg" width="25px" height="25px"></a></td>
 
 
